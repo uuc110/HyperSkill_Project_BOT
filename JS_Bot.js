@@ -43,7 +43,7 @@ function test() {
     console.log("1. To repeat a statement multiple times.");
     console.log("2. To decompose a program into several small subroutines.");
     console.log("3. To determine the execution time of a program.");
-    console.log("4. To interrupt the execution of a program.");
+    console.log("4. .");
   let n;  
   do {
       let n = input();
